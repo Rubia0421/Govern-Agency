@@ -1,0 +1,10 @@
+{
+    "documents": [],
+    "requests": [],
+    "citizens": [{
+        "number": "09123456789",
+        "name": "Rayven",
+        "id": "1",
+        "email": "rayven@gmail.com"
+    }]
+}

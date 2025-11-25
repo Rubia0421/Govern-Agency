@@ -1,0 +1,68 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\rayve\Desktop\Rayven Script\RayvenFileBSIT\Javacode\test\main\target\main1.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\rayve\Desktop\Rayven Script\RayvenFileBSIT\Javacode\test\main\target\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-17
+Substitute:	PATH = C:\Program Files\Java\jdk-17\bin;C:\Program Files\Java\jdk-17;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\rayve\AppData\Local\Android\Sdk\platform-tools;C:\Users\rayve\AppData\Local\Programs\Python\Python312\Scripts;C:\Program Files\Apache\Maven\apache-maven-3.9.11\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\rayve\flutter\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Java\jdk-17;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\rayve\AppData\Local\Android\Sdk\platform-tools;C:\Users\rayve\AppData\Local\Programs\Python\Python312\Scripts;C:\Program Files\Apache\Maven\apache-maven-3.9.11\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\rayve\flutter\bin;C:\Program Files\nodejs" /M;C:\Program Files\Java\jre1.8.0_451\bin
+JRE paths:	C:\Program Files\Java\jdk-17;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Java\jdk-17;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\rayve\AppData\Local\Android\Sdk\platform-tools;C:\Users\rayve\AppData\Local\Programs\Python\Python312\Scripts;C:\Program Files\Apache\Maven\apache-maven-3.9.11\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\rayve\flutter\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Java\jdk-17;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\rayve\AppData\Local\Android\Sdk\platform-tools;C:\Users\rayve\AppData\Local\Programs\Python\Python312\Scripts;C:\Program Files\Apache\Maven\apache-maven-3.9.11\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\rayve\flutter\bin;C:\Program Files\nodejs" /M;C:\Program Files\Java\jre1.8.0_451\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Users\rayve\AppData\Local\Android\Sdk\platform-tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\rayve\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Apache\Maven\apache-maven-3.9.11\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\rayve\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Users\rayve\AppData\Local\Android\Sdk\platform-tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\rayve\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Apache\Maven\apache-maven-3.9.11\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\rayve\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs /M\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_451\bin\javaw.exe (OK)
+Version string: 1.008.000_451 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_451
+Version string: 1.008.000_451 / 64-Bit (Ignore)
+Ignore:		1.008.000_451
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 17
